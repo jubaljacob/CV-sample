@@ -1,0 +1,20 @@
+body {
+  background-color: #d9ecf2;
+}
+
+hr {
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+h1 {
+  color: #726a95;
+  font-family: Courier
+}
+
+h3 {
+  color: #709fb0;
+
+}
